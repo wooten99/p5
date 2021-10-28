@@ -90,3 +90,12 @@ public class IOmain {
 	}
 
 }
+
+/*
+1 paragraph progress report
+
+Currently, this is as far as I have gotten on my ranked voting system.
+The barebones I/O is nearly finsihed with a little cleaning and optimizing to do.
+The Ballot class has not had anything added to it yet but has the skeleton of what needs to go in there, a list of candidates.
+The rankedmechanism class will contain the actual code which will perform the rounds of competition based on votes.
+/*
